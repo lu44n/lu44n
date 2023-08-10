@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Mikael! </h1>
-<h3 align="center"> Current, i'm studying Computer Science at IMT! </h3>
+<h3 align="center"> Currently studying Computer Science at IMT! </h3>
 
 <div align="center"><br>
   <a href="https://github.com/lu44n">

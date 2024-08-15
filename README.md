@@ -4,9 +4,11 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">I'm looking for my first internship, motivated by the desire to transform my theoretical knowledge into
-innovative and impactful practices. I developed a passion for web development and a solid foundation in HTML,
-CSS and JavaScript. I find myself eager to collaborate on challenging projects and contribute to the success of a
-dynamic and creative team.</p>
+innovative and impactful practices. </p>
+<p align="left">I developed a passion for web development and a solid foundation in HTML,
+CSS and JavaScript. </p>
+<p align="left">I find myself eager to collaborate on challenging projects and contribute to the success of a
+dynamic and creative team. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mikaelmartinsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikaelmartinsdev" height="30" width="40" /></a>

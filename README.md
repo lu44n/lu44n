@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Luan Mikael! 👋</h1>
-<img align="right" alt="Coding" width="350" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif](https://www.wouterbongaerts.com/gif">
+<img align="right" alt="Coding" width="350" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w">
 
 <h3 align="left">About me:</h3>
 <p align="left">I'm looking for my first internship, motivated by the desire to transform my theoretical knowledge into

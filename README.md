@@ -7,7 +7,7 @@
 innovative and impactful practices. </p>
 <p align="left">I developed a passion for web development and a solid foundation in HTML,
 CSS and JavaScript. </p>
-<p align="left">I find myself eager to collaborate on challenging projects and contribute to the success of a
+<p align="left">As well I find myself eager to collaborate on challenging projects and contribute to the success of a
 dynamic and creative team. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

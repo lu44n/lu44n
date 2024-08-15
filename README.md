@@ -8,7 +8,7 @@
 - I developed a passion for Web Development.
 - Contact me: luanmikaelmartins@gmail.com
   
-<br/>
+<br/><br/>
 
 <h3 align="left">Languages and Tools:</h3>
 

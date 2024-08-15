@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
-- Currently studying Computer Science at IMT & Full Stack Development at OneBitCode.
+- Currently studying Computer Science at IMT (5th Semester) & Full Stack Development at OneBitCode.
 - I’m looking to collaborate on projects and solve problems.
 - I'm eager to learn and constantly improve.
 - I developed a passion for Web Development.

@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,mongodb,react,python,dart,nodejs,mysql,vscode,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,postgresql,react,python,dart,nodejs,mysql,vscode,github&theme=dark)](https://skillicons.dev)
 
 ## GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu44n&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="stats"/> </p>

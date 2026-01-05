@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
-- Software Engineering Intern at Itaú Unibanco and Computer Science at IMT (8th Semester).
+- Software Engineering Intern at Itaú Unibanco.
 - I’m looking to collaborate on projects and solve problems.
 - I'm eager to learn and constantly improve.
 - Contact me: luanmikaelmartins@gmail.com
